@@ -103,6 +103,7 @@ table tfoot td {
     font-weight: bold;
     font-size: 1.3rem;
     border-bottom: none;
+    padding-left: 0;
 }
 
 tfoot {
